@@ -17,7 +17,7 @@
 #undef TRACE_SYSTEM
 #define TRACE_SYSTEM kgsl
 #undef TRACE_INCLUDE_PATH
-#define TRACE_INCLUDE_PATH .
+#define TRACE_INCLUDE_PATH /home/deepak/Downloads/android_kernel_asus_X01BD/drivers/gpu/msm/
 #undef TRACE_INCLUDE_FILE
 #define TRACE_INCLUDE_FILE adreno_trace
 
